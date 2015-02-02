@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Commoner</id>
+    <version>$version$</version>
+    <title>Commoner</title>
+    <authors>Steven Jones</authors>
+    <owners>Steven Jones</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/sjdirect/commoner</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# common libs, utilities and helpers.</description>
+    <summary>C# common libs, utilities and helpers.</summary>
+    <copyright>Copyright 2013</copyright>
+    <tags>utilities common</tags>
+  </metadata>
+</package>
