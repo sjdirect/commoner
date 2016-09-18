@@ -7,7 +7,7 @@ namespace Commoner.Core.Testing
     {
         public static void StartAutoRespond(string p)
         {
-            var importedSessions = SazImporter.ReadSessionArchive(@"..\..\..\TestResponses.saz").ToList();
+            var importedSessions = SazImporter.ReadSessionArchive(p).ToList();
             FiddlerApplication.BeforeRequest += delegate(Session oS)
             {
                 //TODO add dictionary for lookup
